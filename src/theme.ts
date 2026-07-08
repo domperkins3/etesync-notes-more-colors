@@ -14,7 +14,7 @@ export interface Theme extends PaperTheme {
 }
 
 const mainColors = {
-  primary: "#009688",
+  primary: Colors.teal500,
   accent: Colors.lightBlueA700, // Not the real etesync theme but better for accessibility
 };
 
